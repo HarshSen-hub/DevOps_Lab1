@@ -2,7 +2,7 @@
 """
 build_q1.py - Generator for Question 1: Record All Commands (5 Marks)
 Course: DevOps Foundations & Continuous Integration (Lab 1)
-Student: Akash (ad1646414@gmail.com)
+Student: Harsh(iharshsen08@gmail.com)
 """
 
 import os
@@ -20,8 +20,8 @@ def get_q1_markdown():
     return """# Question 1: Record All Commands, Configurations, History & Observations
 
 **Course:** DevOps Foundations & Continuous Integration (Lab 1)  
-**Student Name:** Akash  
-**Email:** ad1646414@gmail.com  
+**Student Name:** Harsh  
+**Email:** iharshsen08@gmail.com
 **Weightage:** 5 Marks  
 **Submission Component:** Chronological Terminal Execution Logs, Git Commit History Graph, Pipeline Configurations, and Empirical Observations  
 
