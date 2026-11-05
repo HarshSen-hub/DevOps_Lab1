@@ -2,7 +2,6 @@
 """
 DevOps Lab 1: DevOps Foundations & Continuous Integration
 Report & Submission Generator
-Author: Akash (ad1646414@gmail.com)
 """
 
 import os
