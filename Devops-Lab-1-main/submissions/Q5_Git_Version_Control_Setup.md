@@ -1,8 +1,8 @@
 # Question 5: Version Control Setup, Branching, Merging & GitHub Integration
 
 **Course:** DevOps Foundations & Continuous Integration (Lab 1)  
-**Student Name:** Akash  
-**Email:** ad1646414@gmail.com  
+**Student Name:** Harsh  
+**Email:** iharshsen08@gmail.com  
 **Weightage:** 5 Marks  
 **Submission Component:** Git Repository Initialization, Staging, Commit History, Branching, Non-Fast-Forward Merge, and Remote GitHub Push  
 
