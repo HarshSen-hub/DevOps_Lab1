@@ -1,8 +1,8 @@
 # Question 4: Install and Configure Git and Jenkins on Ubuntu Linux
 
 **Course:** DevOps Foundations & Continuous Integration (Lab 1)  
-**Student Name:** Akash  
-**Email:** ad1646414@gmail.com  
+**Student Name:** Harsh  
+**Email:** iharshsen08@gmail.com  
 **Weightage:** 5 Marks  
 **Submission Component:** Installation Steps, Verification Commands, Global Configuration, and System Administration  
 
