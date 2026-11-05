@@ -1,8 +1,8 @@
 # Question 2: Comprehensive CI/CD Pipeline Workflow Report
 
 **Course:** DevOps Foundations & Continuous Integration (Lab 1)  
-**Student Name:** Akash  
-**Email:** ad1646414@gmail.com  
+**Student Name:** Harsh  
+**Email:** iharshsen08@gmail.com  
 **Weightage:** 10 Marks  
 **Submission Component:** Technical Architecture Report, Pipeline Stage Breakdown, Automation Results, and Empirical Observations  
 
