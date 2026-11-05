@@ -1,8 +1,8 @@
 # Question 6: Implementing a Basic Jenkins CI/CD Pipeline with GitHub Integration
 
 **Course:** DevOps Foundations & Continuous Integration (Lab 1)  
-**Student Name:** Akash  
-**Email:** ad1646414@gmail.com  
+**Student Name:** Harsh  
+**Email:** iharshsen08@gmail.com  
 **Weightage:** 5 Marks  
 **Submission Component:** SCM Pull Setup, GitHub Webhook Integration, Automated Build Triggers, and Console Execution Verification  
 
