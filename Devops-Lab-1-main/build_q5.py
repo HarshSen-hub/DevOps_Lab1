@@ -2,7 +2,6 @@
 """
 build_q5.py - Generator for Question 5: Set Up Version Control Using Git (5 Marks)
 Course: DevOps Foundations & Continuous Integration (Lab 1)
-Student: Akash (ad1646414@gmail.com)
 """
 
 import os
@@ -19,9 +18,7 @@ from generate_reports_full import (
 def get_q5_markdown():
     return r"""# Question 5: Version Control Setup, Branching, Merging & GitHub Integration
 
-**Course:** DevOps Foundations & Continuous Integration (Lab 1)  
-**Student Name:** Akash  
-**Email:** ad1646414@gmail.com  
+**Course:** DevOps Foundations & Continuous Integration (Lab 1)   
 **Weightage:** 5 Marks  
 **Submission Component:** Git Repository Initialization, Staging, Commit History, Branching, Non-Fast-Forward Merge, and Remote GitHub Push  
 
