@@ -2,7 +2,6 @@
 """
 build_q3.py - Generator for Question 3: Automate Application Deployment (5 Marks)
 Course: DevOps Foundations & Continuous Integration (Lab 1)
-Student: Akash (ad1646414@gmail.com)
 """
 
 import os
@@ -19,9 +18,7 @@ from generate_reports_full import (
 def get_q3_markdown():
     return """# Question 3: Automate Application Deployment Using Jenkins
 
-**Course:** DevOps Foundations & Continuous Integration (Lab 1)  
-**Student Name:** Akash  
-**Email:** ad1646414@gmail.com  
+**Course:** DevOps Foundations & Continuous Integration (Lab 1)   
 **Weightage:** 5 Marks  
 **Submission Component:** Build Triggers, Post-Build Actions, and Containerized Automated Deployment Steps  
 
