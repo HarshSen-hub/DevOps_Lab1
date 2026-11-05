@@ -2,7 +2,6 @@
 """
 build_q2.py - Generator for Question 2: Prepare a CI/CD Workflow Report (10 Marks)
 Course: DevOps Foundations & Continuous Integration (Lab 1)
-Student: Akash (ad1646414@gmail.com)
 """
 
 import os
@@ -20,8 +19,7 @@ def get_q2_markdown():
     return """# Question 2: Comprehensive CI/CD Pipeline Workflow Report
 
 **Course:** DevOps Foundations & Continuous Integration (Lab 1)  
-**Student Name:** Akash  
-**Email:** ad1646414@gmail.com  
+ 
 **Weightage:** 10 Marks  
 **Submission Component:** Technical Architecture Report, Pipeline Stage Breakdown, Automation Results, and Empirical Observations  
 
