@@ -2,7 +2,6 @@
 """
 build_q4.py - Generator for Question 4: Install and Configure Git and Jenkins (5 Marks)
 Course: DevOps Foundations & Continuous Integration (Lab 1)
-Student: Akash (ad1646414@gmail.com)
 """
 
 import os
@@ -19,9 +18,7 @@ from generate_reports_full import (
 def get_q4_markdown():
     return r"""# Question 4: Install and Configure Git and Jenkins on Ubuntu Linux
 
-**Course:** DevOps Foundations & Continuous Integration (Lab 1)  
-**Student Name:** Akash  
-**Email:** ad1646414@gmail.com  
+**Course:** DevOps Foundations & Continuous Integration (Lab 1)   
 **Weightage:** 5 Marks  
 **Submission Component:** Installation Steps, Verification Commands, Global Configuration, and System Administration  
 
