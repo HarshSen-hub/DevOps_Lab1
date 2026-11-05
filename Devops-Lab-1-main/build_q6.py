@@ -2,7 +2,6 @@
 """
 build_q6.py - Generator for Question 6: Implement a Basic Jenkins CI/CD Pipeline (5 Marks)
 Course: DevOps Foundations & Continuous Integration (Lab 1)
-Student: Akash (ad1646414@gmail.com)
 """
 
 import os
@@ -19,9 +18,7 @@ from generate_reports_full import (
 def get_q6_markdown():
     return r"""# Question 6: Implementing a Basic Jenkins CI/CD Pipeline with GitHub Integration
 
-**Course:** DevOps Foundations & Continuous Integration (Lab 1)  
-**Student Name:** Akash  
-**Email:** ad1646414@gmail.com  
+**Course:** DevOps Foundations & Continuous Integration (Lab 1)   
 **Weightage:** 5 Marks  
 **Submission Component:** SCM Pull Setup, GitHub Webhook Integration, Automated Build Triggers, and Console Execution Verification  
 
