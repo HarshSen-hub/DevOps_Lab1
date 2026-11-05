@@ -1,8 +1,8 @@
 # Question 1: Record All Commands, Configurations, History & Observations
 
 **Course:** DevOps Foundations & Continuous Integration (Lab 1)  
-**Student Name:** Akash  
-**Email:** ad1646414@gmail.com  
+**Student Name:** Harsh  
+**Email:** iharshsen08@gmail.com  
 **Weightage:** 5 Marks  
 **Submission Component:** Chronological Terminal Execution Logs, Git Commit History Graph, Pipeline Configurations, and Empirical Observations  
 
